@@ -1,31 +1,48 @@
-# Animal Sounds Flutter App
+# Flutter Animal Sounds Assignment
 
-A simple and interactive Flutter application that allows users to explore animals and play their sounds. The app supports both **Grid** and **List** views for displaying animal cards.
+This project is a Flutter application that demonstrates a clean and modern UI design for playing animal sounds.
 
-## Features
+## 📱 App Overview
 
-- Display animals in **Grid** or **List** view.
-- Each animal card shows:
-  - Animal **name**
-  - Animal **image**
-  - **Play button** to hear the animal sound
-- Smooth animations when switching between Grid and List.
-- Responsive design for different screen sizes.
-- Interactive UI with ripple effect and card scaling animation.
-- Sound playback optimized to avoid freezing or overlapping.
+The application contains:
+- Grid and List view toggle for animal cards
+- Each card displays:
+  - Animal image
+  - Animal name
+  - Play button for sound
+- Responsive UI for different screen sizes
+- Assets loaded from JSON file for dynamic content
 
-## Screenshots
+The UI is clean, modern, and follows Flutter best practices.
 
-### Grid View
-![Grid](screenshots/grid.jpg)
-![Grid 2](screenshots/grid2.jpg)
+## 🖼️ App Output
+
+Below are screenshots of the application:
 
 ### List View
-![List](screenshots/list.jpg)
-![List 1](screenshots/list1.jpg)
+<p align="center">
+  <img src="screenshots/list.png" width="45%" />
+  <img src="screenshots/list1.png" width="45%" />
+</p>
 
-## How to Run
+### Grid View
+<p align="center">
+  <img src="screenshots/grid.png" width="45%" />
+  <img src="screenshots/grid2.png" width="45%" />
+</p>
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+- AudioPlayers package
+- JSON for local data storage
+
+## 🚀 How to Run the Project
+
+```bash
+git clone https://github.com/MostafaTonin/assignment2.git
+cd assginment2
+flutter pub get
+flutter run
