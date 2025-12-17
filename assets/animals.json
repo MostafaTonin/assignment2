@@ -1,0 +1,10 @@
+[
+  {"name": "Lion", "image": "assets/images/lion.jpg", "sound": "assets/sounds/lion.mp3"},
+  {"name": "Dog", "image": "assets/images/dog.jpg", "sound": "assets/sounds/dog.mp3"},
+  {"name": "Cat", "image": "assets/images/cat.jpg", "sound": "assets/sounds/cat.mp3"},
+  {"name": "Horse", "image": "assets/images/horse.jpg", "sound": "assets/sounds/horse.mp3"},
+  {"name": "Fox", "image": "assets/images/fox.jpg", "sound": "assets/sounds/fox.mp3"},
+  {"name": "Cow", "image": "assets/images/cow.jpg", "sound": "assets/sounds/cow.mp3"},
+  {"name": "Goat", "image": "assets/images/goat.jpg", "sound": "assets/sounds/goat.mp3"},
+    {"name": "Tger", "image": "assets/images/tiger.jpg", "sound": "assets/sounds/tiger.mp3"}
+]
